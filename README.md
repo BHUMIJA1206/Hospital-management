@@ -1,1 +1,2 @@
 # Hospital-management
+patient detail
